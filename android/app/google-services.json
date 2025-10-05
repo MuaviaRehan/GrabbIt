@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611312741043",
+    "project_id": "grabbit-9e56e",
+    "storage_bucket": "grabbit-9e56e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611312741043:android:d5714a931e44a968f29ec6",
+        "android_client_info": {
+          "package_name": "com.example.classico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6PEL5NjYkKRzCeO_pF9IbUKvMvOLiQkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
